@@ -1,0 +1,11 @@
+import org.junit.Test;
+
+public class DemoTest {
+	
+	@Test
+    public void setup() {
+		System.setProperty("webdriver.chrome.driver","C:\\filepath\\chromedriver.exe");
+		driver = new ChromeDriver();
+	}
+
+}

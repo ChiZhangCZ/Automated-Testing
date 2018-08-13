@@ -1,0 +1,31 @@
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class DemoTest {
+		
+    @Before
+    public void setup() {
+    	
+    	System.setProperty("webdriver.chrome.driver","C:/Users/Admin/Downloads/chromedriver.exe");
+    	ChromeDriver driver = new ChromeDriver();
+    }
+    
+	
+	@After
+	public void tearDown() {
+		
+		ChromeDriver driver = new ChromeDriver();
+		driver.quit();
+	}
+	
+	@Test
+	public void demoSite() {
+		
+		ChromeDriver driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.get("http://thedemosite.co.uk/");
+	}
+
+}

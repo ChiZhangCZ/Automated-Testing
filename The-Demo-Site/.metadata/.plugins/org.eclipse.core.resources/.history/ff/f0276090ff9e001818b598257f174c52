@@ -1,0 +1,13 @@
+import org.junit.Test;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class DemoTest {
+	
+	@Test
+    public void setup() {
+		
+		System.setProperty("webdriver.chrome.driver","C:\\filepath\\chromedriver.exe");
+		ChromeDriver driver = new ChromeDriver();
+	}
+
+}
