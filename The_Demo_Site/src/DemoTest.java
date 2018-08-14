@@ -39,6 +39,7 @@ public class DemoTest {
 	    password.sendKeys("password");
 	    register.submit();
 	    
+	    
 	    driver.get("http://thedemosite.co.uk/login.php");
 	    WebElement loginName = driver.findElement(By.name("username"));
 	    WebElement loginPass = driver.findElement(By.name("password"));
