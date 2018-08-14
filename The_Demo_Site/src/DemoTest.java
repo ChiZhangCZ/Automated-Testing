@@ -23,7 +23,7 @@ public class DemoTest {
 	@After
 	public void tearDown() {
 		
-		driver.close();
+		driver.quit();
 	}
 	
 	@Test
@@ -42,7 +42,7 @@ public class DemoTest {
 	    driver.get("http://thedemosite.co.uk/login.php");
 	    WebElement loginName = driver.findElement(By.name("username"));
 	    WebElement loginPass = driver.findElement(By.name("password"));
-	    WebElement login = driver.findElement(By.name("password"));
+	    WebElement login = driver.findElement(By.name("FormsButton2"));
 	    
 	    loginName.sendKeys("Notorious");
 	    loginPass.sendKeys("password");

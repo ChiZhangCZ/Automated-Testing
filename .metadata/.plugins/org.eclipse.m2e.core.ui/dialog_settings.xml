@@ -14,6 +14,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Shopping_Website"/>
 			<item value="The_Demo_Site"/>
 			<item value="TheDemoSite"/>
 			<item value="The Demo Site"/>
@@ -21,6 +22,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Shopping_Website"/>
 			<item value="The_Demo_Site"/>
 			<item value="TheDemoSite"/>
 			<item value="The Demo Site"/>
