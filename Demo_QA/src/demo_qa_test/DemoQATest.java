@@ -2,6 +2,7 @@ package demo_qa_test;
 
 import static org.junit.Assert.*;
 
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -11,6 +12,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class DemoQATest {
 	
@@ -61,6 +64,44 @@ static WebDriver driver;
 		item1.click();
 		
 		assertTrue(item1.getAttribute("class").contains("ui-selected"));
+	}
+	
+	@Test
+	public void accordionTest() {
+		
+		WebElement accordionBtn = driver.findElement(By.id("menu-item-144"));
+		accordionBtn.click();
+		
+		WebElement section2 = driver.findElement(By.id("ui-id-6"));
+		section2.click();
+		WebElement section1 = driver.findElement(By.id("ui-id-4"));
+		WebElement section3 = driver.findElement(By.id("ui-id-8"));
+		WebElement section4 = driver.findElement(By.id("ui-id-10"));
+		
+			
+		assertTrue(section2.getAttribute("class").contains("ui-state-active")
+				&& section1.getAttribute("class").contains("ui-state-default")
+				&& section3.getAttribute("class").contains("ui-state-default")
+				&& section4.getAttribute("class").contains("ui-state-default")
+				  );
+		
+	}
+	
+
+    
+	@Test
+	public void autoTest() {
+		
+		WebElement autoBtn = driver.findElement(By.id("menu-item-145"));
+		autoBtn.click();
+		
+		WebElement textbox = driver.findElement(By.id("tagss"));
+		textbox.sendKeys("act");
+		
+		WebElement suggestions= (new WebDriverWait(driver, 10)).until(ExpectedConditions.presenceOfElementLocated(By.className("ui-menu-item")));
+				
+		assertTrue(suggestions.getText().equals("ActionScript"));
+		
 	}
 
 }
