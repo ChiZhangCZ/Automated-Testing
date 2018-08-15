@@ -1160,3 +1160,273 @@ org.eclipse.core.runtime.CoreException: Launch configuration TheDemoSite referen
 2018-08-14 18:18:21,071 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
 2018-08-14 18:19:10,157 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-08-14 18:19:10,166 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-14 18:19:10,170 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-14 18:19:10,179 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 08:32:06,270 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:32:06,274 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 08:32:06,279 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:32:06,287 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 08:34:23,852 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:34:23,860 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 08:34:23,865 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:34:23,875 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 08:35:33,375 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:35:33,384 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 08:35:33,390 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:35:33,399 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 08:36:05,786 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:36:05,796 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 08:36:05,802 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:36:05,811 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 08:44:09,853 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:44:09,861 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 08:44:09,865 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:44:09,873 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 08:44:58,987 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:44:58,996 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 08:44:59,000 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:44:59,008 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 08:46:01,331 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:46:01,343 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 08:46:01,348 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:46:01,357 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 08:50:33,135 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:50:33,143 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 08:50:33,147 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:50:33,156 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 08:53:21,016 [Worker-208] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:53:21,026 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 08:53:21,032 [Worker-208] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 08:53:21,040 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 09:01:54,398 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:01:54,405 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 09:01:54,413 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:01:54,423 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 09:09:24,469 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:09:24,480 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 09:09:24,485 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:09:24,494 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 09:13:18,872 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:13:18,882 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 09:13:18,887 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:13:18,896 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 09:22:14,386 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:22:14,386 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 09:22:14,401 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:22:14,401 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 09:38:10,932 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:38:10,932 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 09:38:10,947 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:38:10,947 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 09:39:46,886 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:39:46,901 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 09:39:46,901 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:39:46,917 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 09:41:02,556 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:41:02,564 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 09:41:02,564 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:41:02,564 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 09:44:59,947 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:44:59,954 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 09:44:59,958 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:44:59,966 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 09:45:59,339 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:45:59,346 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 09:45:59,351 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:45:59,358 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 09:49:03,813 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:49:03,824 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 09:49:03,828 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:49:03,839 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 09:58:51,837 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:58:51,842 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 09:58:51,847 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 09:58:51,855 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 10:04:48,354 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:04:48,364 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 10:04:48,369 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:04:48,376 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 10:05:34,263 [Worker-241] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:05:34,273 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 10:05:34,278 [Worker-241] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:05:34,289 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 10:08:22,399 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:08:22,406 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 10:08:22,411 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:08:22,418 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 10:08:37,914 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:08:37,921 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 10:08:37,925 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:08:37,933 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 10:09:35,571 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:09:35,579 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\main\resources
+2018-08-15 10:09:35,584 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:09:35,591 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Travel\src\test\resources
+2018-08-15 10:12:54,241 [Worker-241] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: The_Demo_Site:The_Demo_Site:0.0.1-SNAPSHOT @ C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\pom.xml.
+2018-08-15 10:12:54,805 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.pom
+2018-08-15 10:12:54,837 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.pom
+2018-08-15 10:12:54,868 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.pom
+2018-08-15 10:12:54,894 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.pom
+2018-08-15 10:12:54,924 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.8.11.1/sqlite-jdbc-3.8.11.1.pom
+2018-08-15 10:12:54,950 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.8.11.1/sqlite-jdbc-3.8.11.1.pom
+2018-08-15 10:12:54,975 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.pom
+2018-08-15 10:12:55,000 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.pom
+2018-08-15 10:12:55,031 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver/3.0.4/mongodb-driver-3.0.4.pom
+2018-08-15 10:12:55,059 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver/3.0.4/mongodb-driver-3.0.4.pom
+2018-08-15 10:12:55,094 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson/3.0.4/bson-3.0.4.pom
+2018-08-15 10:12:55,136 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson/3.0.4/bson-3.0.4.pom
+2018-08-15 10:12:55,167 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/3.0.4/mongodb-driver-core-3.0.4.pom
+2018-08-15 10:12:55,191 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/3.0.4/mongodb-driver-core-3.0.4.pom
+2018-08-15 10:12:55,229 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar
+2018-08-15 10:12:55,491 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar
+2018-08-15 10:12:55,514 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar
+2018-08-15 10:12:55,581 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar
+2018-08-15 10:12:55,684 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.8.11.1/sqlite-jdbc-3.8.11.1.jar
+2018-08-15 10:12:56,471 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.8.11.1/sqlite-jdbc-3.8.11.1.jar
+2018-08-15 10:12:56,495 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar
+2018-08-15 10:12:56,737 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar
+2018-08-15 10:12:56,761 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver/3.0.4/mongodb-driver-3.0.4.jar
+2018-08-15 10:12:56,837 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver/3.0.4/mongodb-driver-3.0.4.jar
+2018-08-15 10:12:56,862 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson/3.0.4/bson-3.0.4.jar
+2018-08-15 10:12:56,920 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson/3.0.4/bson-3.0.4.jar
+2018-08-15 10:12:56,949 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/3.0.4/mongodb-driver-core-3.0.4.jar
+2018-08-15 10:12:57,093 [Worker-241] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/3.0.4/mongodb-driver-core-3.0.4.jar
+2018-08-15 10:12:57,620 [Worker-241] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:12:57,625 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\main\resources
+2018-08-15 10:12:57,625 [Worker-241] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:12:57,629 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\test\resources
+2018-08-15 10:12:58,870 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:12:58,874 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\main\resources
+2018-08-15 10:12:58,875 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:12:58,879 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\test\resources
+2018-08-15 10:14:43,825 [Worker-230] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: The_Demo_Site:The_Demo_Site:0.0.1-SNAPSHOT @ C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\pom.xml.
+2018-08-15 10:14:43,950 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:14:43,959 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\main\resources
+2018-08-15 10:14:43,964 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:14:43,972 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\test\resources
+2018-08-15 10:40:49,306 [Worker-245] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:40:49,310 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\main\resources
+2018-08-15 10:40:49,311 [Worker-245] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:40:49,319 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\test\resources
+2018-08-15 10:42:42,147 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:42:42,162 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\main\resources
+2018-08-15 10:42:42,169 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:42:42,182 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\test\resources
+2018-08-15 10:43:59,153 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:43:59,160 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\main\resources
+2018-08-15 10:43:59,161 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:43:59,169 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\test\resources
+2018-08-15 10:44:55,669 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:44:55,679 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\main\resources
+2018-08-15 10:44:55,685 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:44:55,695 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\test\resources
+2018-08-15 10:46:20,785 [Worker-245] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Shopping_Website:Shopping_Website:0.0.1-SNAPSHOT @ C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\pom.xml.
+2018-08-15 10:46:20,881 [Worker-245] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:46:20,885 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\main\resources
+2018-08-15 10:46:20,890 [Worker-245] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:46:20,897 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\test\resources
+2018-08-15 10:46:22,098 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:46:22,102 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\main\resources
+2018-08-15 10:46:22,108 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:46:22,117 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\test\resources
+2018-08-15 10:47:26,461 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:47:26,466 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\main\resources
+2018-08-15 10:47:26,470 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:47:26,479 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\test\resources
+2018-08-15 10:49:25,575 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:49:25,582 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\main\resources
+2018-08-15 10:49:25,588 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:49:25,597 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\test\resources
+2018-08-15 10:49:25,620 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:49:25,625 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\main\resources
+2018-08-15 10:49:25,630 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:49:25,634 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\test\resources
+2018-08-15 10:50:07,208 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:50:07,212 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\main\resources
+2018-08-15 10:50:07,213 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:50:07,217 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\test\resources
+2018-08-15 10:50:20,199 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:50:20,203 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\main\resources
+2018-08-15 10:50:20,207 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:50:20,212 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\test\resources
+2018-08-15 10:51:53,117 [Worker-247] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Demo_QA:Demo_QA:0.0.1-SNAPSHOT @ C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\pom.xml.
+2018-08-15 10:51:53,215 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:51:53,223 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 10:51:53,228 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:51:53,235 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 10:51:54,443 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:51:54,450 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 10:51:54,454 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 10:51:54,461 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 11:10:23,808 [Worker-245] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:10:23,812 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 11:10:23,816 [Worker-245] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:10:23,823 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 11:21:32,235 [Worker-245] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:21:32,243 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 11:21:32,247 [Worker-245] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:21:32,255 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 11:24:24,918 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:24:24,926 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 11:24:24,930 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:24:24,938 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 11:26:08,211 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:26:08,219 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 11:26:08,223 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:26:08,230 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 11:28:17,681 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:28:17,689 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 11:28:17,693 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:28:17,700 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 11:28:48,059 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:28:48,063 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 11:28:48,068 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:28:48,076 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 11:30:03,522 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:30:03,529 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 11:30:03,534 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:30:03,542 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 11:31:39,412 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:31:39,428 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 11:31:39,428 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:31:39,428 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 11:39:07,463 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:39:07,479 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 11:39:07,479 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:39:07,495 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 11:39:07,510 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:39:07,526 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\main\resources
+2018-08-15 11:39:07,526 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:39:07,526 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\test\resources
+2018-08-15 11:39:07,557 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:39:07,573 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\main\resources
+2018-08-15 11:39:07,573 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:39:07,573 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\test\resources
+2018-08-15 11:40:01,007 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:40:01,017 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\main\resources
+2018-08-15 11:40:01,018 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:40:01,028 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\test\resources
+2018-08-15 11:40:48,947 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:40:48,960 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\main\resources
+2018-08-15 11:40:48,967 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:40:48,974 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\test\resources
+2018-08-15 11:41:42,117 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:41:42,132 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\main\resources
+2018-08-15 11:41:42,132 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:41:42,132 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\The_Demo_Site\src\test\resources
+2018-08-15 11:43:06,338 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:43:06,353 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\main\resources
+2018-08-15 11:43:06,369 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:43:06,369 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping_Website\src\test\resources
+2018-08-15 11:49:39,526 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:49:39,542 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 11:49:39,542 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:49:39,557 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 11:50:00,307 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:50:00,322 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 11:50:00,322 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 11:50:00,322 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
+2018-08-15 13:55:41,047 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 13:55:41,051 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\main\resources
+2018-08-15 13:55:41,056 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 13:55:41,063 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Demo_QA\src\test\resources
